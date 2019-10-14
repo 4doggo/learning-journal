@@ -3,7 +3,7 @@
 - Command: Directive to a computer program to perform a specific task. It is always the first thing you type 
 - Prompt: text or symbols used to represent the system's readiness to perform the next command
 - Terminal: AKA Command line is a text based interface to the system
-- Shell:  This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.
+- Shell:  This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you
 - Bash: Bourne Again Shell 
 - Echo: Command that tells you which shell you are using 
 - pwd: Print Working Directory
