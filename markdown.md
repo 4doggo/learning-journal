@@ -14,7 +14,7 @@ You can do many things like Bold, Italic and Strikethroughs like below:
 
   Add 1 "*" before and after like so: 
   
-    * Example * ⇨ *Example*
+    *  * Example * ⇨ *Example*
     
 - *Strikethrough* 
 
