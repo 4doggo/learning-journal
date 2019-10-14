@@ -1,6 +1,6 @@
 # What I learned about Markdown:
 
-markdown is a way to stylize text like CSS is for HTML 
+## Markdown is a way to stylize text like CSS is for HTML 
 
 You can do many things like Bold, Italic and Strikethroughs like below:
 
