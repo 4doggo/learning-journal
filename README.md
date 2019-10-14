@@ -5,8 +5,8 @@ Today I will learn.
 - Growth Mindset
 - Sandbox Learning
 
-definition of growth mindset:
-> Growth mindset is a way of thinking that allows you to trust yourself to tackle through difficult situations that you may think that are not prepared yet but you can overcome by implementing this particular mindset. 
+My definition of growth mindset:
+> Growth mindset is a way of thinking that allows you to trust yourself to tackle through difficult situations that you may think you are not ready/incapable of yet by thinking that you can actually do it because you learn and grow as you go.
 
 3 Reminders to stay in growth mindset: 
 1. *Don't over think it when you can't do it immediately (Remember that it may take time)* 
