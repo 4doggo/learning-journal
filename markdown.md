@@ -3,16 +3,18 @@
 markdown is a way to stylize text like CSS is for HTML 
 
 You can do many things like Bold, Italic and Strikethroughs like below:
-- Bold
+- *Bold*
 
   Add 2 "*" before and after like so: 
     **Example**
     
-- Italic 
+- *Italic* 
+
   Add 1 "*" before and after like so: 
     *Example* 
     
-- Strikethrough 
+- *Strikethrough* 
+
   Add 2 "~~" before and after like so: 
   ~~Example~~
   
