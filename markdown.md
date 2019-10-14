@@ -7,16 +7,19 @@ You can do many things like Bold, Italic and Strikethroughs like below:
 - *Bold*
 
   Add 2 "*" before and after like so: 
+  
     ** Example **  ⇨ **Example**
     
 - *Italic* 
 
   Add 1 "*" before and after like so: 
+  
     * Example * ⇨ *Example*
     
 - *Strikethrough* 
 
   Add 2 "~~" before and after like so: 
+  
     ~~ Example ~~  ⇨ ~~Example~~
   
 
