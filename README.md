@@ -3,5 +3,5 @@
 ## Table of Contents 
 - [Markdown](markdown.md)
 - [Growth Mindset](growth-mindset.md)
-- [Cheat Sheet](cheasheet.md)
+- [Cheat Sheet](cheatsheet.md)
 - [Github vs Git](git-github.md)
