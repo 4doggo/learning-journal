@@ -5,3 +5,4 @@
 - [Growth Mindset](growth-mindset.md)
 - [Cheat Sheet](cheatsheet.md)
 - [Github vs Git](git-github.md)
+- [HTML](html.md)
