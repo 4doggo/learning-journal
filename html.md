@@ -11,9 +11,11 @@ It allows you to organize the information that will need to go on each page. The
 
 *Tags:*
 Each element has an opening tag `<content>` and a closing tag `</content>` 
-Tags act like containers and they need to be opened and closed most of the time. 
+Tags act like containers and they need to be opened and closed most of the time but some are openended.
 
-#### Examples:
+
+
+#### Elements:
 `<body>`
 This is where majority of the stuff is written in
 
