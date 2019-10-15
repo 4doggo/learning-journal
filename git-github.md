@@ -23,3 +23,9 @@ File has been changed but not committed to the database
 3. Staged
 Flagged a file’s changed version to be committed in the next snapshot
 
+
+## GitHub
+Fun fact: GitHub was founded in 2008 in San Francisco and is now a subsidiary of Microsoft. The mascot is a Octocat which is a cat with octopus legs. 
+
+### *What is GitHub?*
+**It is a software development version control for Git repositories that is on the cloud**
